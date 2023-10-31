@@ -2,9 +2,9 @@
 # Angular : rendu n°2
 Repository où déposer le projet n°2 Angular
 
-### Nom[^1] :
+### Nom[^1] :ADANSAR  
 
-### Prénom[^2] : 
+### Prénom[^2] : Abdellah
 
 ## A faire[^3]
 - [ ] Suivre le cours jusqu'à la page 180
